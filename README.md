@@ -11,10 +11,10 @@ You can print it, cut it and give it to your designer.
 
 
 ## Links
-- [US Letter pdf]()
-- [US Letter svg]()
-- [A4 pdf]()
-- [A4 svg]()
+- [US Letter pdf](https://github.com/BoD/android-dip-ruler/releases/download/v1.0.0/android_dip_ruler-1.0.0-usletter.pdf)
+- [US Letter svg](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/android_dip_ruler-usletter.svg)
+- [A4 pdf](https://github.com/BoD/android-dip-ruler/releases/download/v1.0.0/android_dip_ruler-1.0.0-a4.pdf)
+- [A4 svg](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/android_dip_ruler-a4.svg)
 
 
 ## Why?
