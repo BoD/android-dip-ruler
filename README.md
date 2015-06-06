@@ -1,7 +1,7 @@
 # Android dip Ruler
 *« Print it, cut it, give it to your designer! »*
 
-![Android dip Ruler!](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/illlus.png "Android dip Ruler!")
+![Android dip Ruler!](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/illus.png "Android dip Ruler!")
 
 
 ## What is it?
