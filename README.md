@@ -22,7 +22,7 @@ Designers are used to think in pixels (especially if they worked on iOS projects
 
 Sometimes a picture is worth a thousand words, and so this ruler will make it immediately obvious that ***the dp is a physical unit of length***.
 
-Some essential information are also present on the ruler:
+Some essential information is also present on the ruler:
 - Definition of a dp
 - List of Android logical densities (*ldpi*, *mdpi*, etc.) with their properties
 
