@@ -37,6 +37,8 @@ And of course it can also be actually used to measure things (screens…) since 
 - Available in A4 and US Letter
 - The ruler is rotated in the page to reduce the risk of being larger than the printable area
 - When printing, make sure to **not** scale the page (or force it to scale at 100%), to preserve exact sizes
+ 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--dip--ruler-green.svg?style=flat)](https://android-arsenal.com/details/1/1944)
 
 
 ## License
