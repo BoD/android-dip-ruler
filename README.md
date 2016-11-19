@@ -5,7 +5,7 @@
 
 
 ## What is it?
-This is a ruler in the Android "dip" ([Device Independent Pixel](http://en.wikipedia.org/wiki/Units_of_measurement)) unit.
+This is a ruler in the Android "dip" ([Device Independent Pixel](https://en.wikipedia.org/wiki/Device-independent_pixel)) unit [[1]](https://material.google.com/layout/units-measurements.html#units-measurements-density-independent-pixels-dp).
 
 You can print it, cut it and give it to your designer.
 
@@ -20,7 +20,7 @@ I've found that the concept of dp is not that easy to explain / understand.
 
 Designers are used to think in pixels (especially if they also work on iOS projects).
 
-Sometimes a picture is worth a thousand words, and so this ruler will make it immediately obvious that ***the dp is a physical unit of length***.
+Sometimes a picture is worth a thousand words, and so this ruler will make it immediately obvious that ***the dp is a [physical unit of length](https://en.wikipedia.org/wiki/Length#Units)***.
 
 Some essential information is also present on the ruler:
 - Definition of a dp
