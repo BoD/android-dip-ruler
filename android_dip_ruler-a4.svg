@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="dp-ruler.svg"
+   sodipodi:docname="android_dip_ruler-a4.svg"
    inkscape:export-filename="/Users/bod/Tmp/dp-ruler.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,18 +28,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="248.32311"
-     inkscape:cy="464.04418"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="517.43331"
+     inkscape:cy="284.41307"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1440"
-     inkscape:window-height="851"
+     inkscape:window-height="852"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1402,84 +1403,89 @@
            style="text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end" /></flowRegion><flowPara
          id="flowPara5232-7">128</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-       x="975.47705"
-       y="723.61383"
+       style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:105.99999428%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Light'"
+       x="653.73468"
+       y="-982.49023"
        id="text3502"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="105.99999%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
          sodipodi:role="line"
-         x="975.47705"
-         y="723.61383"
-         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan4700">By Benoit 'BoD' Lubek.</tspan><tspan
+         id="tspan5179"
+         x="653.73468"
+         y="-982.49023"></tspan><tspan
          sodipodi:role="line"
-         x="975.47705"
-         y="728.61383"
-         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan4702">http://github.com/BoD/android-dip-ruler</tspan><tspan
+         id="tspan5181"
+         x="653.73468"
+         y="-975.70624"></tspan><tspan
          sodipodi:role="line"
-         x="975.47705"
-         y="733.61383"
-         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan4706">Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</tspan></text>
+         id="tspan5183"
+         x="653.73468"
+         y="-968.92224">Benoit 'BoD' Lubek  git.io/vXF8c</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        x="85.319992"
-       y="671.31781"
+       y="673.31781"
        id="text3506"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3508"
          x="85.319992"
-         y="671.31781"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto;-inkscape-font-specification:Roboto">Device independent pixel (&quot;dip&quot; or &quot;dp&quot;) ruler.</tspan></text>
+         y="673.31781"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed,'">Device Independent Pixel (<tspan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"
+   id="tspan3307">dip</tspan> or <tspan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"
+   id="tspan3305">dp</tspan>)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        x="85.319992"
-       y="689.31213"
+       y="693.0849"
        id="text3510"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="140%"><tspan
          sodipodi:role="line"
-         id="tspan3512"
+         id="tspan3357"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto;-inkscape-font-specification:Roboto"
          x="85.319992"
-         y="689.31213">1 dp = 1 pixel on an mdpi (160 dpi) screen.</tspan><tspan
+         y="693.0849">1 dp = 1 pixel on a mdpi (160 dpi) screen</tspan><tspan
          sodipodi:role="line"
+         id="tspan3359"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto;-inkscape-font-specification:Roboto"
          x="85.319992"
-         y="701.81213"
-         id="tspan3514">1 dp = 1/160 in (0.15875 mm).</tspan><tspan
+         y="707.0849">1 dp = 1/160″ = 0.15875 mm</tspan><tspan
          sodipodi:role="line"
+         id="tspan3361"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto;-inkscape-font-specification:Roboto"
          x="85.319992"
-         y="714.31213"
-         id="tspan3516">64 dp ≈ 1 cm.</tspan></text>
+         y="721.0849">64 dp ≈ 1 cm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
-       x="-696.41565"
-       y="457.77991"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light Italic"
+       x="-694.41565"
+       y="437.77991"
        id="text3632"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3634"
-         x="-695.48566"
-         y="457.77991"
-         style="letter-spacing:1.8599999px">Densities</tspan></text>
+         x="-693.16565"
+         y="437.77991"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:2.5px;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto Light Italic">Densities</tspan></text>
     <g
        id="g4659"
-       transform="translate(49.983281,5.813881)">
+       transform="translate(25.983281,3.813881)">
       <text
          sodipodi:linespacing="125%"
          id="text3518"
          y="674.5011"
-         x="597.65955"
+         x="599.65955"
          style="font-size:8px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light Italic"
          xml:space="preserve"><tspan
            style="font-size:8px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;font-family:Roboto;-inkscape-font-specification:Roboto Light Italic"
            id="tspan3522"
            y="674.5011"
-           x="597.65955"
+           x="599.65955"
            sodipodi:role="line"><tspan
              id="tspan3875"
              style="font-size:10px;font-style:normal;opacity:0;fill:#ffffff;-inkscape-font-specification:Roboto Light">-</tspan><tspan
@@ -1488,12 +1494,12 @@
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#ff00ff;font-family:Roboto;-inkscape-font-specification:Roboto Light"
            id="tspan3530"
            y="687.0011"
-           x="597.65955"
+           x="599.65955"
            sodipodi:role="line">-</tspan><tspan
            id="tspan3869"
            style="font-size:8px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;font-family:Roboto;-inkscape-font-specification:Roboto Light Italic"
            y="699.5011"
-           x="597.65955"
+           x="599.65955"
            sodipodi:role="line"><tspan
              id="tspan3871"
              style="font-size:10px;font-style:normal;opacity:0;-inkscape-font-specification:Roboto Light">-</tspan><tspan
@@ -1503,126 +1509,163 @@
          sodipodi:linespacing="125%"
          id="text3518-2"
          y="661.87598"
-         x="596.99811"
+         x="598.99811"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
          xml:space="preserve"><tspan
            y="661.87598"
-           x="596.99811"
+           x="598.99811"
            id="tspan3520-2"
-           sodipodi:role="line">120dpi</tspan><tspan
+           sodipodi:role="line">120 dpi</tspan><tspan
            id="tspan3522-2"
            y="674.37598"
-           x="596.99811"
-           sodipodi:role="line">160dpi</tspan><tspan
+           x="601.47858"
+           sodipodi:role="line">160 dpi </tspan><tspan
            id="tspan3524-0"
            y="686.87598"
-           x="596.99811"
-           sodipodi:role="line">240dpi</tspan><tspan
+           x="598.99811"
+           sodipodi:role="line">240 dpi</tspan><tspan
            id="tspan3526-8"
            y="699.37598"
-           x="596.99811"
-           sodipodi:role="line">320dpi</tspan><tspan
+           x="598.99811"
+           sodipodi:role="line">320 dpi</tspan><tspan
            id="tspan3528-2"
            y="711.87598"
-           x="596.99811"
-           sodipodi:role="line">480dpi</tspan><tspan
+           x="598.99811"
+           sodipodi:role="line">480 dpi</tspan><tspan
            id="tspan3530-0"
            y="724.37598"
-           x="596.99811"
-           sodipodi:role="line">640dpi</tspan></text>
+           x="598.99811"
+           sodipodi:role="line">640 dpi</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3518-7"
          y="661.87439"
-         x="420.90186"
+         x="445.80219"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
          xml:space="preserve"><tspan
            y="661.87439"
-           x="420.90186"
+           x="445.80219"
            id="tspan3520-5"
            sodipodi:role="line"><tspan
-             style="font-size:8px;font-style:normal;font-weight:bold;-inkscape-font-specification:Roboto Bold"
-             id="tspan3578-3">0.75×  </tspan><tspan
              id="tspan3532-1"
-             style="font-style:italic;-inkscape-font-specification:Roboto Italic">ldpi</tspan><tspan
+             style="font-style:normal;font-weight:bold;-inkscape-font-specification:Roboto Bold">ldpi</tspan><tspan
              id="tspan3610-3"
              style="font-size:8px"> (low) ......................................</tspan></tspan><tspan
            id="tspan3522-6"
            y="674.37439"
-           x="420.90186"
+           x="445.80219"
            sodipodi:role="line"><tspan
-             id="tspan3534-5"
-             style="font-style:italic;-inkscape-font-specification:Roboto Italic">          mdpi</tspan><tspan
+             style="font-weight:bold;-inkscape-font-specification:Roboto Bold"
+             id="tspan3610">mdpi</tspan><tspan
              id="tspan3612-4"
              style="font-size:8px"> (medium) ...........................</tspan></tspan><tspan
            id="tspan3524-3"
            y="686.87439"
-           x="420.90186"
+           x="445.80219"
            sodipodi:role="line"><tspan
-             style="font-size:8px;font-style:normal;font-weight:bold;-inkscape-font-specification:Roboto Bold"
-             id="tspan3618-4"> 1.5×</tspan><tspan
-             id="tspan3536-6"
-             style="font-style:italic;-inkscape-font-specification:Roboto Italic">   hdpi</tspan><tspan
+             style="font-weight:bold;-inkscape-font-specification:Roboto Bold"
+             id="tspan3606">hdpi</tspan><tspan
              id="tspan3616-8"
              style="font-size:8px"> (high) ...................................</tspan></tspan><tspan
            id="tspan3526-6"
            y="699.37439"
-           x="420.90186"
+           x="445.80219"
            sodipodi:role="line"><tspan
-             style="font-size:8px;font-style:normal;font-weight:bold;-inkscape-font-specification:Roboto Bold"
-             id="tspan3622-6">   2×</tspan><tspan
-             id="tspan3538-3"
-             style="font-style:italic;-inkscape-font-specification:Roboto Italic">    xhdpi</tspan><tspan
+             style="font-weight:bold;-inkscape-font-specification:Roboto Bold"
+             id="tspan3602">xhdpi</tspan><tspan
              id="tspan3620-5"
-             style="font-size:8px"> (extra-high) ........................</tspan></tspan><tspan
+             style="font-size:8px"> (extra high) .......................</tspan></tspan><tspan
            id="tspan3528-5"
            y="711.87439"
-           x="420.90186"
+           x="445.80219"
            sodipodi:role="line"><tspan
-             style="font-size:8px;font-style:normal;font-weight:bold;-inkscape-font-specification:Roboto Bold"
-             id="tspan3626-6">   3×</tspan><tspan
              id="tspan3540-8"
-             style="font-style:italic;-inkscape-font-specification:Roboto Italic">    xxhdpi</tspan><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto;-inkscape-font-specification:Roboto Bold">xxhdpi</tspan><tspan
              id="tspan3624-0"
-             style="font-size:8px"> (extra-extra-high) ............</tspan></tspan><tspan
+             style="font-size:8px"> (extra extra high) ...........</tspan></tspan><tspan
            id="tspan3530-8"
            y="724.37439"
-           x="420.90186"
+           x="445.80219"
            sodipodi:role="line"><tspan
-             style="font-size:8px;font-style:normal;font-weight:bold;-inkscape-font-specification:Roboto Bold"
-             id="tspan3630-1">   4×</tspan><tspan
              id="tspan3542-9"
-             style="font-style:italic;-inkscape-font-specification:Roboto Italic">    xxxhdpi</tspan><tspan
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Roboto;-inkscape-font-specification:Roboto Bold">xxxhdpi</tspan><tspan
              id="tspan3628-0"
-             style="font-size:8px"> (extra-extra-extra-high)</tspan></tspan></text>
+             style="font-size:8px"> (extra extra extra high)</tspan></tspan></text>
     </g>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAiCAYAAACjv9J3AAAABHNCSVQICAgIfAhkiAAABDVJREFU
+SIntlm9oE2ccx793z13yJHfJmiZLm+AqtbXtbKu2TAduypRpfbHuD2yjFBkDGYLguwlDmG+qZeD0
+lTjHQAbzxeiG+9O90U1hsA5WR+to67b+sX+grkmTpc31krvkLs9emIa2Jr3WVNgLv3Bc7vf73vdz
+99xzuYdjjGE1ael/f8sw477T5n9jVSOARCr8Dc8JQSqWPr+aj7cKMkwtMBm5eSBlqu0rWs6lBylT
+bZ+M3DxgmFrAKlOwMoiEntfNeGfaUD62EWmHkUk0zanjuxKpcInT5o+VSJW3Bd7ZnzaUd3QzLoiE
+nrfK5KyGF4B/Qb8/cvveOXciFUY8OYUMM3NNniNwOyrgtPmxa8vJuGwPbgUQLgbaEln466vf751z
+RdU/rS4OXulZPLflpOKT694CcP1RoJtnlYG7Pw0ddy69MyvxHMHL9ZcST7satwGYzOspcK6gp+eu
+9YycdmaYCZ9cj8ONVyASKa9ZJBION16BT65HhpnoGTnt1NNz11BgzhSCnuifutis6iEAgKrPIBzv
+g2Em85oNM4lwvA+qPpP1h9A/dbEZwIl8/rzDm4Fxvav30CHT1Apck7UIoXh7940bPISWlb28dzqv
+ju0vBggApqlhXh3bn6+3OOYUMF8HSB8AaTJ6S3SI3qKgADAZvSV6pNomACpgNgPkWwAal2bJl5Ja
+5Opo6HuPz9UQ98rbpmLq37t1Y75oqF14Ch6ptje6cLciogy6q8tejTmo7winJKd7rg++t0dLxwAA
+L9Z0RMPxP7zDM18XDa0pfxN+947oL8MfegGAih60NHz2K58yFyoXgQAwFur2Fno11iuRSBgLdeee
+k5aOIWUuVPKMZbilxgwzAFj+Na5RLJu3pMIynOVX5nHoCfQJdGOgHMez5QUBAFfAvl5x2bwlFY5n
+vI3I41T05IpVZa3RlcZHFc8JqCprjS4eU9EDG5HHBUpLTx2s/+SLsfAPXp+rIV4q1Q7PJyb2bQgV
+gE9uGNpX+1FNRBl0V/lfiVJaekoQQH92Oyq2Nm0+9lr2K+MhvNi7EUDCi5DsZe9L9rLYM6UvNAPk
+OwD64kTSAdIFYBTAnaBnT6xw1NqVzbnzIJd0PeDkn71pj7O6c2/NGeZ372QyDT40GWQagEyDTKbL
+19U8J0CmQfjdO9nemjPM46zuBJBeCVh1NQjgiKqH3v1x6Hi1qv+Ta7Q2fTnnphWfxrWpY939bSWL
+dckewMH6S6OSvexzAFexztUgsieczbDUQwtexjJRAB9k98uU9Z8tBLSCPjb9P6E8J07INJh78IS3
+gfA2LftbI7wt55VpkPGcOFE0VLKXX9i+6eisQBzgwKMu0KbZiOsyANiI63JdoE3jwEMgDmzfdHRW
+spdfsMoEY8xySxlKu6JNDyjJ6YmEPtvBGKPZHk3osx1KcnpC0aYHUobSvpa8/wCyLN2ec6KNzAAA
+AABJRU5ErkJggg==
+"
+       width="58"
+       height="68"
+       id="image3500"
+       x="834.06305"
+       y="655.96997"
+       style="opacity:0.75" />
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAYAAADtyJ2fAAAABHNCSVQICAgIfAhkiAAAAd1JREFU
+KJGFk01rE0EYx/+7O5nsJhuzybaxG0HUDXTTGLzUQ/AkevBQojcXFfwW4mdo8diPoCiCFCkI0l58
+IaCiiAn4QqptqhtrarOYbppskuklCZsVtgMPDP/5/eaZwzNgjMFTSqNVecMYExhj3LCEYaZ4WYLJ
+1Wy1rfD27qs/zXaVAIAi6T0lotfU6FzTC06Iv/ZeL37YWs7td+rCKNvGS0TDM8dCgriYTly4M8o5
+xthon1/9ePNdSIhSAGj8KwMApmJnAQBuf7+7cO7+PIBPEx0tu7RkO9+p7+njCwBQyy4tafHCFQDg
+an9f3HI6O5e7vdaNZrsa8ovepUi6S4n8IBJOrZG6/f7uF+tRTk8V3c3GWpAHkoqgWnt6e1a7Ps/3
+B44MADzHu4GWh+kPHJkfp4wNjhK9DB/EBXYHeHY09p/GiBrLlp3OTlykyT4AOQgXafIgrRRcNZYt
+k8x08Wpmunj8a/3JCoCpQDGkblzM3rsG4Pd4crpo5Tas1Yc/90pG3X5LTqqXDgBga3ddnImf751I
+FD6f0RZMCrkCeCaHQq4Ympm325vfYCMTl049Hx4VZTH9w9DMvLe7/3dA4KkLADxHXH8WKCal2RVD
+MzvJyOnHAGBopp6QMs/83CFQC8SvWbDPoQAAAABJRU5ErkJggg==
+"
+       width="56"
+       height="68"
+       id="image3480"
+       x="770"
+       y="655.96997"
+       style="opacity:0.5" />
     <g
-       id="g4828"
-       transform="matrix(0.20272822,0,0,0.20272822,850.07904,668.4697)">
+       id="g4828-8"
+       transform="matrix(0.20272822,0,0,0.20272822,928.12612,669.20038)">
       <g
-         id="g4797"
+         id="g4797-0"
          style="fill:#a4c639">
         <use
-           id="use4799"
-           xlink:href="#b"
+           id="use4799-1"
+           xlink:href="#b-8"
            style="stroke:#ffffff;stroke-width:14.39999962"
            x="0"
            y="0"
            width="1"
            height="1" />
         <use
-           id="use4801"
+           id="use4801-8"
            transform="scale(-1,1)"
-           xlink:href="#a"
+           xlink:href="#a-1"
            x="0"
            y="0"
            width="1"
            height="1" />
         <g
-           id="a"
+           id="a-1"
            style="stroke:#ffffff;stroke-width:7.19999981">
           <rect
-             id="rect4804"
+             id="rect4804-8"
              x="14"
              y="-86"
              width="13"
@@ -1635,19 +1678,19 @@
              width="48"
              height="133"
              rx="24"
-             id="c" />
+             id="c-64" />
           <use
-             id="use4807"
-             xlink:href="#c"
+             id="use4807-9"
+             xlink:href="#c-64"
              x="85"
              y="97"
              width="1"
              height="1" />
         </g>
         <g
-           id="b">
+           id="b-8">
           <ellipse
-             id="ellipse4810"
+             id="ellipse4810-5"
              ry="84"
              rx="91"
              cy="41"
@@ -1658,7 +1701,7 @@
              sodipodi:ry="84"
              d="m 91,41 c 0,46.391919 -40.742088,84 -91,84 -50.257912,0 -91,-37.608081 -91,-84 0,-46.391919 40.742088,-84 91,-84 50.257912,0 91,37.608081 91,84 z" />
           <rect
-             id="rect4812"
+             id="rect4812-0"
              x="-91"
              y="20"
              width="182"
@@ -1667,14 +1710,14 @@
         </g>
       </g>
       <g
-         id="g4814"
+         id="g4814-3"
          style="fill:#ffffff;stroke:#ffffff;stroke-width:7.19999981">
         <path
-           id="path4816"
+           id="path4816-0"
            d="M -95,44.5 H 95"
            inkscape:connector-curvature="0" />
         <circle
-           id="circle4818"
+           id="circle4818-5"
            r="4"
            cx="-42"
            cy="0"
@@ -1684,7 +1727,7 @@
            sodipodi:ry="4"
            d="m -38,0 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
         <circle
-           id="circle4820"
+           id="circle4820-57"
            r="4"
            cx="42"
            cy="0"
@@ -1695,5 +1738,62 @@
            d="m 46,0 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       x="456.89948"
+       y="665.70355"
+       id="text3633"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3635"
+         x="469.16754"
+         y="665.70355"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0"
+           id="tspan4439">0</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan3669">0.75×</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="469.16754"
+         y="678.20355"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan3637" /><tspan
+         sodipodi:role="line"
+         x="469.16754"
+         y="690.70355"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan3643"><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0"
+           id="tspan4441">0</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan3667">1.5×</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="469.16754"
+         y="703.20355"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan3659"><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0"
+           id="tspan4443">0</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan3665">2×</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="469.16754"
+         y="715.70355"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan3655"><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0"
+           id="tspan4445">0</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan3663">3×</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="469.16754"
+         y="728.20355"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan3645"><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0"
+           id="tspan4447">0</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Roboto;-inkscape-font-specification:Roboto"
+           id="tspan3661">4×</tspan></tspan></text>
   </g>
 </svg>

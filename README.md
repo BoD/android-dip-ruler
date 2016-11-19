@@ -11,10 +11,8 @@ You can print it, cut it and give it to your designer.
 
 
 ## Links
-- [US Letter pdf](https://github.com/BoD/android-dip-ruler/releases/download/v1.0.0/android_dip_ruler-1.0.0-usletter.pdf)
-- [US Letter svg](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/android_dip_ruler-usletter.svg)
-- [A4 pdf](https://github.com/BoD/android-dip-ruler/releases/download/v1.0.0/android_dip_ruler-1.0.0-a4.pdf)
-- [A4 svg](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/android_dip_ruler-a4.svg)
+- [US Letter pdf](https://github.com/BoD/android-dip-ruler/releases/download/v1.1.0/android_dip_ruler-1.1.0-usletter.pdf) ([source](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/android_dip_ruler-usletter.svg))
+- [A4 pdf](https://github.com/BoD/android-dip-ruler/releases/download/v1.1.0/android_dip_ruler-1.1.0-a4.pdf) ([source](https://raw.githubusercontent.com/BoD/android-dip-ruler/master/android_dip_ruler-a4.svg))
 
 
 ## Why?
@@ -37,7 +35,7 @@ And of course it can also be actually used to measure things (screens…) since 
 - Available in A4 and US Letter
 - The ruler is rotated in the page to reduce the risk of being larger than the printable area
 - When printing, make sure to **not** scale the page (or force it to scale at 100%), to preserve exact sizes
- 
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--dip--ruler-green.svg?style=flat)](https://android-arsenal.com/details/1/1944)
 
 
