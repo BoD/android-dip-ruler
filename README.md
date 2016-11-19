@@ -20,7 +20,8 @@ I've found that the concept of dp is not that easy to explain / understand.
 
 Designers are used to think in pixels (especially if they also work on iOS projects).
 
-Sometimes a picture is worth a thousand words, and so this ruler will make it immediately obvious that ***the dp is a [physical unit of length](https://en.wikipedia.org/wiki/Length#Units)***.
+Sometimes a picture is worth a thousand words, and so this ruler will make it immediately obvious that
+### the dp is a [physical unit of length](https://en.wikipedia.org/wiki/Length#Units).
 
 Some essential information is also present on the ruler:
 - Definition of a dp
